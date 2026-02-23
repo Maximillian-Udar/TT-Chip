@@ -1,0 +1,4 @@
+[debug] [tt-chip-test] Classpath dependencies List()
+[debug] [tt-chip-test] Dependencies from configurations List(tt-chip)
+[debug] Bloop wrote the configuration of project 'tt-chip-test' to '/home/max/TT-Chip/.bloop/tt-chip-test.json'
+[success] Generated .bloop/tt-chip-test.json
