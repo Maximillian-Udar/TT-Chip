@@ -9,10 +9,9 @@
   },
   {
     "class":"firrtl.transforms.CombinationalPath",
-    "sink":"~ChiselTop|ChiselTop>io_uo_out",
+    "sink":"~ChiselTop|ChiselTop>io_seg",
     "sources":[
-      "~ChiselTop|ChiselTop>io_ui_in",
-      "~ChiselTop|ChiselTop>io_uio_in"
+      "~ChiselTop|ChiselTop>io_sw"
     ]
   }
 ]
