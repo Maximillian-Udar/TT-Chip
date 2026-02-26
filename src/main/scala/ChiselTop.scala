@@ -14,7 +14,6 @@ class ChiselTop() extends Module {
   })
 
   io.uio_out := 0.U
-  // something
   // use bi-directionals as input
   io.uio_oe := 0.U
 
